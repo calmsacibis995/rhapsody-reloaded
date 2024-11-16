@@ -60,7 +60,7 @@
 
 
 // Title strings for the various windows
-const char *mach_title = "Rhapsody Operating System";	// Used by km.m also
+const char *mach_title = "Darwin Operating System";	// Used by km.m also
 static const char *alert_title  = "Alert";
 
 // Module Globals
